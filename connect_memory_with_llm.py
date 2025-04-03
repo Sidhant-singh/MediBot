@@ -9,7 +9,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 
 from huggingface_hub import login
 
-login(token="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")
+login(token="Your Hugging Face token")
 
 
 # Step1 : Setup LLm (mistral with huggingface)
